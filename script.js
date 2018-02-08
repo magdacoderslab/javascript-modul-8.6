@@ -12,6 +12,6 @@ if (value >= 0) {
     console.log('wynik ujemny');
 }
 if (value == 0) {
-    console.log('wynik=0')
+    console.log('wynik=0');
 }
 
